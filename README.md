@@ -4,4 +4,5 @@ model-development : Berisi notebook training model, model yang telah di-train, d
 
 dataset : Berisi informasi mengenai dataset yang digunakan untuk melatih model.
 
-Download aplikasi android : Pada bagian releases klik AI Pilah Sampah, kemudian download app-release.apk
+Download aplikasi android : Pada bagian releases klik AI Pilah Sampah, kemudian download ai-pilah-sampah.apk
+
