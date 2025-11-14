@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Pilah Sampah</string>
+    <string name="btn_start">Pilah Sampah</string>
+    <string name="btn_info">Informasi Aplikasi</string>
+    <string name="title_app_purpose">Tujuan Aplikasi</string>
+    <string name="app_purpose">Aplikasi ini bertujuan untuk membantu pengguna dalam mengidentifikasi dan memilah sampah berdasarkan jenisnya secara real-time menggunakan kamera smartphone.</string>
+    <string name="title_how_to_use">Cara Penggunaan</string>
+    <string name="how_to_use">1. Tekan tombol \'Pilah Sampah\'\n2. Arahkan kamera ke objek sampah\n3. Aplikasi akan mendeteksi jenis sampah secara otomatis\n4. Perhatikan warna bingkai dan kategori sampah yang terdeteksi</string>
+    <string name="title_detection_capability">Kemampuan Deteksi</string>
+    <string name="detection_capability">Aplikasi dapat mendeteksi berbagai jenis sampah dalam 3 kategori utama dengan penanda warna:\n\n• Hijau: Sampah Organik\n• Kuning: Sampah Anorganik\n• Merah: Sampah B3</string>
+    <string name="title_waste_categories">Kategori Sampah</string>
+    <string name="waste_categories">Organik:\n• Daun\n• Kantung Teh\n• Kayu\n• Kulit Pisang\n• Kulit Telur\n\nAnorganik:\n• Botol\n• Kaleng\n• Kertas\n• Plastik\n• Styrofoam\n\nB3 (Bahan Berbahaya dan Beracun):\n• Baterai\n• Lampu\n• Masker\n• Obat-obatan\n• Termometer</string>
+    <string name="detection_results">Hasil Deteksi</string>
+    <string name="organic_waste">Sampah Organik</string>
+    <string name="inorganic_waste">Sampah Anorganik</string>
+    <string name="b3_waste">Sampah B3</string>
+    <string name="label_organik">Organik</string>
+    <string name="label_b3">B3</string>
+    <string name="label_anorganik">Anorganik</string>
+</resources> 

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Security configurations -->
+    <string name="content_provider_authority">ai.pilahsampah.fileprovider</string>
+</resources>

@@ -1,0 +1,15 @@
+﻿# Android/Gradle
+/.gradle/
+/.idea/
+/local.properties
+**/*.iml
+
+# Build outputs
+/app/build/
+/app/.cxx/
+/app/.gradle/
+/app/release/
+
+# OS/editor
+.DS_Store
+Thumbs.db
